@@ -27,4 +27,3 @@ let numJ = 6 ;
 // se puede sumar, restar, multiplar, eleavar, dividir etc
 let resultado = ( numJ+ numD)
 console.log(resultado)
-
